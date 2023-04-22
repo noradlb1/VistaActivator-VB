@@ -1,0 +1,8 @@
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\VistaActivator.Form1.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\VistaActivator.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\VistaActivator.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\bin\Debug\VistaActivator.exe
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\bin\Debug\VistaActivator.pdb
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\VistaActivator.exe
+C:\Users\MONSTERMC\Desktop\New folder (6)\VistaActivator\obj\Debug\VistaActivator.pdb
